@@ -1,0 +1,31 @@
+
+.chart-container {
+  position: relative;
+  margin: auto;
+  height: 60%;
+  width: 40%;
+}
+
+h3{
+	color: white;
+	text-align: center;
+}
+
+.chart-container{
+	float: left;
+	margin: 1% 3.5%;
+}
+
+.position{
+	float: center;
+}
+
+.big{
+  width: 50%;
+  margin: 0 0 0 25%;
+  
+}
+
+p{
+  color: white;
+}
